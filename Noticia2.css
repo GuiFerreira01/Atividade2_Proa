@@ -1,0 +1,154 @@
+
+
+body {
+    background-color: #B2DFF1 ;
+    margin: 0;
+    
+}
+
+.logo a {
+    width: 1000px;
+    margin-top: 40px;
+    color:black;
+    text-decoration: none;
+    margin-left: 0px;
+    font-size: 35px;
+    text-align: center;
+    height: 100px;
+}
+
+.tidois {
+    margin: 0;
+    padding: 0;
+}
+
+
+.proa_colorido a img{
+    width: 125px;
+    position:absolute;
+    margin-top: 0;
+}
+
+
+.noticia p {
+    margin-top: 00px;
+    color: black;
+    text-align: justify;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#pular {
+    margin-top: 130px;
+}
+
+
+.noticia {
+    margin-top: 160px;
+    text-align:justify;
+    font-size: 24px;
+    margin-left: 20px;
+    width: 960px;
+    height: 200px;
+    margin-bottom: 0;
+}
+
+#ALT {
+    margin-top: 650px;
+}
+
+.NIP img {
+    margin-left:8px;
+    position: absolute;
+}
+
+main {
+    margin: 0 auto;
+    background-color: white;
+    width: 1000px;
+    height: 3250px;
+    margin-bottom: 20px;
+}
+
+.not {
+    width: 1100px;
+    height: 600px;    
+}
+
+
+article .img {
+    
+    padding-top: 10px;
+    margin-top: 40px;
+    width: 970px;
+    margin-left: 7px;
+}
+
+
+header {
+    background-color: #1AA7DE;
+    padding: 0px;
+}
+
+.tidois {
+    margin-bottom: 40px;
+}
+
+h1 {
+    font-size: 37px;
+    width: 990;
+    height: 35px;
+    color:black;
+    margin-bottom: 0;
+}
+
+
+
+.text span{
+
+    font-weight: bold;
+}
+
+header .logo {
+    padding: 0px;
+    text-align: center;
+}
+
+.img img {
+    height: 554px;
+}
+
+.imge img {
+    margin-left: 8px;
+    height: 554px;
+    margin-top: 1624px;
+}
+
+.logo img {
+    margin: 0px;
+    width: 528px;
+    height: 143px;
+}
+
+footer {
+    text-align: center;
+    background-color: #1AA7DE;
+}
+
+.texto {
+    margin-bottom: 100p;
+    width: 990px;
+    margin-left: 20px;
+    margin-top: 10px;
+}
+
+.texto span {
+    color: #1AA7DE;
+    line-height: 50px;                     
+}
+
+.texto a {
+    text-decoration: none;
+    color: black;
+    font-size: 30px;
+    
+}

@@ -1,0 +1,147 @@
+
+
+body {
+    background-color: #B2DFF1 ;
+    margin: 0;
+    
+}
+
+.logo a {
+    width: 1000px;
+    margin-top: 40px;
+    color:black;
+    text-decoration: none;
+    margin-left: 0px;
+    font-size: 35px;
+    text-align: center;
+    height: 100px;
+}
+
+
+.proa_colorido a img{
+    width: 125px;
+    position:absolute;
+    margin-top: 0;
+}
+
+#noticia {
+    margin-top: 100px;
+}
+
+.noticia {
+    margin-top: 0;
+    margin-left: 20px;
+    width: 900px;
+    height: 100px;
+    display: flex;
+
+}
+
+.noti {
+    margin-top: 20px;
+    margin-left: 10px;
+    text-decoration: none;
+    font-size: 20px;
+}
+
+.noti a {
+    text-decoration: none;
+    color: black;
+}
+
+.noti a:hover {
+    color: #66c3e7;
+}
+
+main {
+    margin: 0 auto;
+    background-color: white;
+    width: 1000px;
+    height: 1100px;
+    margin-bottom: 20px;
+}
+
+.not {
+    width: 1100px;
+    height: 600px;    
+}
+
+h1 {
+    font-size: 32px;
+}
+
+
+article .img {
+    
+    padding-top: 10px;
+    margin-top: 40px;
+    width: 970px;
+    margin-left: 7px;
+}
+
+
+header {
+    background-color: #1AA7DE;
+    padding: 0px;
+}
+
+
+
+
+header .logo {
+    padding: 0px;
+    text-align: center;
+}
+
+.logo img {
+    margin: 0px;
+    width: 528px;
+    height: 143px;
+}
+
+footer {
+    text-align: center;
+    background-color: #1AA7DE;
+}
+
+.texto {
+    margin-left: 20px;
+    margin-top: 10px;
+}
+
+.texto span {
+    color: #1AA7DE;
+    line-height: 50px;                     
+}
+
+.texto span:hover {
+    text-decoration: underline;
+    color: #66c3e7;
+}
+
+.texto a {
+    text-decoration: none;
+    color: black;
+    font-size: 30px;
+    
+}
+
+
+.outras {
+    padding-top: 5px;
+    padding-bottom: 10px;
+    margin-top: 10px;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+.imagem a {
+    text-decoration: none;
+    color: black;
+    font-size: 15px;
+}
+
+
+.imagem img{
+    width: 200px;
+}
